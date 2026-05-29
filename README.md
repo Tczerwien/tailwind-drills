@@ -12,6 +12,14 @@
      land. Each page is one self-contained HTML file using `<script src="https://cdn.tailwindcss.com">`
      (Phase 09 CDN flow); Phase 10+ migrates to Vite-integrated Tailwind. -->
 
+## Drill specs
+
+| # | Drill | Demonstrates | Spec | Code | Live URL | Concept Notes |
+|---|-------|--------------|------|------|----------|---------------|
+| 01 | Product Detail | basic layout + typography + colors + hover | [spec](./01-product-detail/spec.md) | [code](./01-product-detail/01-product-detail.html) | _____ (Netlify Drop Day 1) | <!-- WRITE during Phase 09 --> |
+| 02 | Dashboard | complex grid + table styling | [spec](./02-dashboard/spec.md) | [code](./02-dashboard/02-dashboard.html) | _____ (Netlify Drop Day 1) | <!-- WRITE during Phase 09 --> |
+| 03 | Marketing | hero + gradients + polish | [spec](./03-marketing/spec.md) | [code](./03-marketing/03-marketing.html) | _____ (Netlify Drop Day 1) | <!-- WRITE during Phase 09 --> |
+
 ## Deployed URLs
 
 ### Page 1
@@ -37,4 +45,4 @@ for the canonical 3-page inventory, layout patterns, and acceptance criteria.
      CLAUDE.md README Conventions (Repo-Level). -->
 
 ---
-*Scaffolded via GSD Phase 4. Content lands during Phase 09 execution.*
+*Scaffolded via GSD Phase 4 + Drill specs added GSD Phase 16. Content lands during Phase 09 execution.*

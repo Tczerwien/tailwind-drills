@@ -1,0 +1,15 @@
+flex
+grid
+grid-template-columns
+gap-
+p-
+m-
+text-
+bg-
+hover:
+md:
+lg:
+min-h-screen
+rounded-
+shadow-
+transition-
